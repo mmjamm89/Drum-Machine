@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.225b0209.chunk.css",
+    "main.js": "/static/js/main.37d44f5a.chunk.js",
+    "main.js.map": "/static/js/main.37d44f5a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.76a4936f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.76a4936f.js.map",
+    "static/js/2.32e8f83f.chunk.js": "/static/js/2.32e8f83f.chunk.js",
+    "static/js/2.32e8f83f.chunk.js.map": "/static/js/2.32e8f83f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.225b0209.chunk.css.map": "/static/css/main.225b0209.chunk.css.map",
+    "static/js/2.32e8f83f.chunk.js.LICENSE.txt": "/static/js/2.32e8f83f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Gradient_bg_1.4f7f68de.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76a4936f.js",
+    "static/js/2.32e8f83f.chunk.js",
+    "static/css/main.225b0209.chunk.css",
+    "static/js/main.37d44f5a.chunk.js"
+  ]
+}
